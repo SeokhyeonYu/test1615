@@ -1,0 +1,19 @@
+test1.md
+  s_f1039c0aa65c08::t_6aaf683560c4f3 8-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "3eb68ef6dd06bcf61d739dbb282a78c483dcfb73",
+  "prompts": {},
+  "sessions": {
+    "s_f1039c0aa65c08": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a130ad-eb45-7758-94ef-78a10be2bcc6",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "SeokhyeonYu <seokhyeon.yu@deliveryhero.com>"
+    }
+  }
+}
